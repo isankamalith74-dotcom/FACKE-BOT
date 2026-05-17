@@ -212,8 +212,6 @@ Information:
 Commands:
 > Downloader
  ▢ ${prefix}tiktok
- ▢ ${prefix}igdl
- ▢ ${prefix}play
 
 > Maker 
  ▢ ${prefix}remini
@@ -252,7 +250,9 @@ Commands:
  ▢ ${prefix}get
  ▢ ${prefix}reactch
  ▢ ${prefix}delsampah
- ▢ ${prefix}listsampah`
+ ▢ ${prefix}listsampah
+ ▢ $*ඊලග command ටික ලගදීම බලාපොරොත්තු වන්න 💀*
+  ▢ $*මෙය තුල තිබෙන සමහරක් command වැඩ කරන්නේ නැති බව කාරුනිකව දන්වා සිටිමි📍*`
 client.sendMessage(m.chat, {
 document: fs.readFileSync("./package.json"),
 fileName: global.namaowner,
